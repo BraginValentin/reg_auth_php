@@ -1,0 +1,20 @@
+*{
+    text-decoration: none;
+}
+
+a {
+    color: skyblue;
+}
+
+.register, .authorization {
+    margin-left: 350px;
+    display: inline-block;
+}
+
+.register form, h1{
+    margin-left: 40%;
+}
+
+.authorization form, h1{
+    margin-left: 40%;
+}
